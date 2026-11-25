@@ -1,0 +1,11 @@
+@Test.Infrastructure_HostAddress = http://localhost:5003
+
+GET {{Test.Infrastructure_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{Test.Infrastructure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

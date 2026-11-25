@@ -1,0 +1,11 @@
+@Test.Domain_HostAddress = http://localhost:5038
+
+GET {{Test.Domain_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{Test.Domain_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

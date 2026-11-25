@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S33OvWXdoHQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\muqta\\RiderProjects\\Test\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muqta\\.nuget\\packages\\microsoft.aspnetcore.openapi\\11.0.0\\microsoft.aspnetcore.openapi.11.0.0.nupkg.sha512",
+    "C:\\Users\\muqta\\.nuget\\packages\\microsoft.openapi\\3.11.0\\microsoft.openapi.3.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
