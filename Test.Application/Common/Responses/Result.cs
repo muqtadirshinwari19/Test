@@ -1,4 +1,4 @@
-﻿namespace StudentManagement.Application.Common.Responses;
+﻿namespace Test.Application.Common.Responses;
 
 public class Result<T>
 {
